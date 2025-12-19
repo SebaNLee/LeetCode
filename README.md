@@ -7,3 +7,15 @@ Will mostly use it to try out new coding languages or get some practice!
 ## Tools
 
 Synchronisation done with [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0?tab=readme-ov-file) extention.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SebaNLee/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SebaNLee/LeetCode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
