@@ -4,3 +4,6 @@ Personal repository to track all my LeetCode submissions, because I like trackin
 
 Will mostly use it to try out new coding languages or get some practice!
 
+## Tools
+
+Synchronisation done with LeetSync extention.
