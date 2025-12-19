@@ -7,3 +7,14 @@ Will mostly use it to try out new coding languages or get some practice!
 ## Tools
 
 Synchronisation done with [LeetSync](https://github.com/LeetSync/LeetSync) extention.
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SebaNLee/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SebaNLee/LeetCode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
