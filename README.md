@@ -6,4 +6,4 @@ Will mostly use it to try out new coding languages or get some practice!
 
 ## Tools
 
-Synchronisation done with [LeetSync](https://github.com/LeetSync/LeetSync) extention.
+Synchronisation done with [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0?tab=readme-ov-file) extention.
