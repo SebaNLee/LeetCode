@@ -11,7 +11,7 @@
 {
 "leetcode.filePath": {
   "default": {
-    "folder": "${id}.{kebab-case-name}",
+    "folder": "${id}.${kebab-case-name}",
     "filename": "${id}.${kebab-case-name}.${ext}"
   }
 }
